@@ -1,0 +1,10 @@
+Flask
+requests
+beautifulsoup4
+spacy
+networkx
+numpy
+scikit-learn
+python-docx
+PyPDF2
+gunicorn
